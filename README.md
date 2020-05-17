@@ -1,2 +1,2 @@
 # pythonAMPD
-creating RESTful Flash API for AMPD data
+creating RESTful Flask API for AMPD data
